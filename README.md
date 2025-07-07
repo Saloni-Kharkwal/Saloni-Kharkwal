@@ -1,10 +1,10 @@
-## Hi there 👋
+## PROFILE👋
+![](https://komarev.com/ghpvc/?username=Saloni-Kharkwal&color=green)
 
 <!--
 **Saloni-Kharkwal/Saloni-Kharkwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hii+My+Name+is+Saloni" alt="Typing SVG" /></a>
+![SALONI'S GitHub stats](https://github-readme-stats.vercel.app/api?username=Saloni-Kharkwal&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saloni-Kharkwal&hide_progress=true)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Saloni-Kharkwal/github-readme-quotes)
+
